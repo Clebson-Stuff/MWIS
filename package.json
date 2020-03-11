@@ -1,0 +1,25 @@
+{
+  "name": "mwis",
+  "version": "1.0.0",
+  "description": "A maximum-weight independent set problem.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clebsonf/MWIS.git"
+  },
+  "keywords": [
+    "MWSI",
+    "Data",
+    "Structures",
+    "algorithm"
+  ],
+  "author": "Clebsonf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clebsonf/MWIS/issues"
+  },
+  "homepage": "https://github.com/clebsonf/MWIS#readme"
+}
